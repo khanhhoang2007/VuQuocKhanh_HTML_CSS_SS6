@@ -60,4 +60,10 @@ li:hover {
     background-color: #DBEAFE;
     color: #1E5DCB;
 }
+.nenxanhxanh:hover {
+    background-color: #F8FAFC;
+}
+td:hover {
+    background-color: #E0F2FE
+}
 
