@@ -1,0 +1,63 @@
+.font_chu{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.center{
+    text-align: center;
+}
+.mauchuxanh{
+    color: #0F766E;
+}
+.nenxanh{
+    background-color: #CCFBF1;
+}
+.chuxanhduong{
+    color: #0284C7;
+}
+.nenxanhduong{
+    background-color: #E0F2FE;
+}
+.chubth{
+    font-size: larger;
+}
+th {
+    color: #075985;
+    font-size: 13px;
+}
+td {
+    font-size: 13px;
+}
+.chuform {
+    color: #134E4A;
+    font-size: 18px;
+    font-weight: 600;
+}
+a {
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 600;
+
+}
+a:hover {
+    color: #FFFF;
+    background-color: #0284C7;
+}
+select:focus {
+    background-color: #ECFEFF;
+}
+.submit {
+    background-color: #39c5b9;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: #FFFF;
+    font-size: 20px;
+
+}
+.submit:hover {
+    background-color: #0F766E; 
+    color: #FFFFFF;   
+}
+li:hover {
+    background-color: #DBEAFE;
+    color: #1E5DCB;
+}
+
